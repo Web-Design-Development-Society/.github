@@ -13,7 +13,7 @@ We meet Wednesdays from 5:30 to 6:30, in the Science and Technology Center.
 
 ## Projects
 
-Check out our [society website](#)
+Check out our [society website](https://web-design-development-society.github.io/webdevsociety/projects/)
 
 <!-- ## Tutorials -->
 
