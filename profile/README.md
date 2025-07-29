@@ -25,7 +25,7 @@ Want a leadership opportunity? Talk to society leadership if you want to help le
 
 ## More
 
-Go vote what your favorite Web Development class is!
+Go [vote](https://github.com/Web-Design-Development-Society/.github/discussions/1) what your favorite Web Development class is!
 
 Enough reading. Time to get coding!
 
