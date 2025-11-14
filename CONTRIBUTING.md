@@ -12,13 +12,26 @@ Benefits
 - Make it easier to manage repo permissions
 - Membership of the org listed on your github profile
 
+## Webdev Environment Setup
+
+- Install [git](https://git-scm.com/downloads)
+- Install [vscode](https://code.visualstudio.com/)
+- Install [node.js & npm](https://nodejs.org/en/download)
+
+Recommended Quality-of-life Extensions
+
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) to autoformat your code
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) to add more icons to file explorer
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) if you're using it
+- [Snippet Studio](https://marketplace.visualstudio.com/items?itemName=AlexDombroski.snippetstudio) to create reusable custom autocompletion
+
 ## Learn to Code Together
 
 There are several approaches to code together as a team. You should decide together how you can best collaborate and achieve your goals
 
 ### Local Branches and Merging
 
-Learn the maximum amount of Git and skip learning Github's PR system
+Learn the maximum amount of [Git](https://git-scm.com/docs) and skip learning Github's PR system
 
 1. Branch off of main
 2. Code on a branch with your name
@@ -43,7 +56,7 @@ Use a good mix of git and github for a balance of speed and benefits.
 
 1. Branch off of main
 2. Code on a branch with your name
-3. Push branch and create PR
+3. Push branch and [create PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 4. Merge via PR. You're told beforehand if conflicts will occur
 5. Pull main and delete branch
 
@@ -60,7 +73,7 @@ Drawbacks
 
 ### Github Forks & PRs
 
-Create your own copy of the repository to use throughout the semester. Periodically click `contribute` and `sync fork` to merge code together.
+Create your own [copy of the repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) to use throughout the semester. Periodically click `contribute` and `sync fork` to merge code together.
 
 1. Click `Fork` to copy the repository
 2. Optionally create branches to make keeping fork up to date easier
