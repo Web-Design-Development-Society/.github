@@ -7,7 +7,7 @@ We're learning more about modern web development together. Our projects are grea
 ## Get Involved
 
 - Join us on [Discord](https://discord.gg/MqRYrpTcqy)
-- Read our [Contributing Guide](./CONTRIBUTING.md)
+- Read our [Contributing Guide](../CONTRIBUTING.md)
 
 We meet Wednesdays from 5:30 to 6:30, in the Science and Technology Center.
 
