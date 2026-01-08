@@ -92,6 +92,8 @@ Drawbacks
 - Have to create a whole new github repository instead of just branching
 - Smaller setup collectively, but may feel like more individual setup
 
+_Read more about [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)_
+
 ### Live Server
 
 [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) allows you to edit code simultaneously in VS Code (similar to google docs).
